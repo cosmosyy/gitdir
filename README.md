@@ -1,0 +1,2 @@
+# gitdir
+first git dir
